@@ -1,4 +1,5 @@
-![image](https://github.com/ng2yung/ng2-raider/blob/main/ng2.png?raw=true)
+![image](https://github.com/user-attachments/assets/d3e92e56-ee0f-4f72-8908-82873a0ca572) | Has 40 options and 10+ exclusive options on option 39 page 2
+
 # Ethereal raider
 **A Discord Raider/MultiTool (README Inspired Off "Maple Raider")**
 
