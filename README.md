@@ -4,10 +4,10 @@
 **A Discord Raider/MultiTool (README Inspired Off "Maple Raider")**
 
 # Discord Server:
-**[[CLICK ME]([https://discord.gg/jqVY8RYxeF](https://discord.gg/gEy57v6k))](https://discord.gg/gEy57v6k)**
+**https://discord.gg/gEy57v6k**
 
 # YouTube:
-**[CLICK ME]([[[https://www.youtube.com/@ng2_toolz](https://www.youtube.com/channel/UCYAwrkRTmVI7o6rODt6Oj7Q)](https://www.youtube.com/channel/UCYAwrkRTmVI7o6rODt6Oj7Q)](https://www.youtube.com/channel/UCYAwrkRTmVI7o6rODt6Oj7Q))**
+**https://www.youtube.com/channel/UCYAwrkRTmVI7o6rODt6Oj7Q**
 
 # Disclaimer
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS CODE IS YOUR FAULT/PROBLEM**
